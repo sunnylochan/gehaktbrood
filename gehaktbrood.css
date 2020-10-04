@@ -1,0 +1,56 @@
+body{
+	width: 2000px;
+}	
+
+h1{
+	margin: 0 auto;
+	border-bottom: 2px solid gray;
+	font-family: 'Roboto-black', sans-serif;
+	font-size: 36px;
+	font-weight: normal;
+	font-style: normal;
+	margin-top: 20px;
+
+}
+
+p,h2{
+	margin-left: 0 auto;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}
+
+.p1{
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}
+
+div{
+	margin: 0 auto;
+}
+
+img{
+	margin: 0 auto;
+	width: 600px;
+}
+
+.tip{
+	margin-left: 25px;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif
+	font-weight: normal;
+	font-style: normal;
+	background-color: lightgreen;
+}
+
+.links{
+	margin: 15px;
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif
+	font-weight: normal;
+	font-style: normal;
+}
